@@ -113,8 +113,6 @@ Este proyecto está bajo la licencia [MIT](https://opensource.org/licenses/MIT).
 
 ## Extras
 
-### Emoji :
-
 😆 Chuck Norris nunca necesita depurar su código.
 
 ### Captura de Pantalla  
