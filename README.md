@@ -125,7 +125,3 @@ Este proyecto está bajo la licencia [MIT](https://opensource.org/licenses/MIT).
 ### Créditos
 
 Desarrollado por [Cristina Fernández](https://github.com/CristinaFdezFdez/).
-
-### Nota al Pie
-
-Esto es un proyecto educativo para demostrar el uso de Markdown. ^[Fuente: Markdown Guide]
