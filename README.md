@@ -12,7 +12,7 @@
 6. [Licencia](#licencia)
 6. [Créditos](#creditos)
 ---
-
+$x^2$
 ## Introducción
 
 La **API de Chuck Norris** permite obtener chistes aleatorios sobre Chuck Norris. Es una API REST pública que proporciona chistes en diferentes categorías.
